@@ -2,6 +2,8 @@
 
 An HTML-based school digital signage application for TV displays that shows the **Current Lesson (Now)** and **Next Lesson (Up Next)** in real time in **English & Bosnian** (with English track badges), combined with a full-stage **Media Slideshow (Images & Videos)** and a built-in **Hidden Timetable Editor**.
 
+🌐 **Live Demo (GitHub Pages):** [https://rayiaqligemilangibu.github.io/school-slide-show/](https://rayiaqligemilangibu.github.io/school-slide-show/)
+
 ---
 
 ## 📁 Folder Structure
