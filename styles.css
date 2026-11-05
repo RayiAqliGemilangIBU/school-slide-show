@@ -84,14 +84,24 @@ html, body {
 }
 
 .school-logo-badge {
-  background: var(--brand-navy);
-  color: #ffffff;
-  font-size: 19px;
-  font-weight: 900;
-  letter-spacing: 1px;
-  padding: 8px 14px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 52px;
+  height: 52px;
+  background: #ffffff;
+  border: 1px solid var(--border-subtle);
   border-radius: 12px;
   box-shadow: var(--shadow-badge);
+  overflow: hidden;
+  flex-shrink: 0;
+}
+
+.school-logo-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  display: block;
 }
 
 .school-name-block {
