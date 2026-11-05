@@ -1,0 +1,51 @@
+{
+    "school": "RICHMOND PARK INTERNATIONAL SECONDARY SCHOOL SARAJEVO",
+    "document_title": "BELL SCHEDULE",
+    "schedules": {
+        "monday_thursday": [
+            {"start_time": "08:30", "end_time": "09:15", "activity": "1st lesson", "period": 1},
+            {"start_time": "09:15", "end_time": "09:20", "activity": "Break"},
+            {"start_time": "09:20", "end_time": "10:05", "activity": "2nd lesson", "period": 2},
+            {"start_time": "10:05", "end_time": "10:25", "activity": "Breakfast"},
+            {"start_time": "10:25", "end_time": "11:10", "activity": "3rd lesson", "period": 3},
+            {"start_time": "11:10", "end_time": "11:20", "activity": "Break"},
+            {"start_time": "11:20", "end_time": "12:05", "activity": "4th lesson", "period": 4},
+            {"start_time": "12:05", "end_time": "12:10", "activity": "Break"},
+            {"start_time": "12:10", "end_time": "12:55", "activity": "5th lesson", "period": 5},
+            {"start_time": "12:55", "end_time": "13:25", "activity": "Lunch"},
+            {"start_time": "13:25", "end_time": "14:10", "activity": "6th lesson", "period": 6},
+            {"start_time": "14:10", "end_time": "14:15", "activity": "Break"},
+            {"start_time": "14:15", "end_time": "15:00", "activity": "7th lesson", "period": 7}
+        ],
+        "friday_winter": [
+            {"start_time": "08:30", "end_time": "09:15", "activity": "1st lesson", "period": 1},
+            {"start_time": "09:15", "end_time": "09:20", "activity": "Break"},
+            {"start_time": "09:20", "end_time": "10:05", "activity": "2nd lesson", "period": 2},
+            {"start_time": "10:05", "end_time": "10:20", "activity": "Breakfast"},
+            {"start_time": "10:20", "end_time": "11:05", "activity": "3rd lesson", "period": 3},
+            {"start_time": "11:05", "end_time": "11:10", "activity": "Break"},
+            {"start_time": "11:10", "end_time": "11:55", "activity": "4th lesson", "period": 4},
+            {"start_time": "11:55", "end_time": "12:45", "activity": "Lunch"},
+            {"start_time": "12:45", "end_time": "13:30", "activity": "5th lesson", "period": 5},
+            {"start_time": "13:30", "end_time": "13:35", "activity": "Break"},
+            {"start_time": "13:35", "end_time": "14:20", "activity": "6th lesson", "period": 6},
+            {"start_time": "14:20", "end_time": "14:25", "activity": "Break"},
+            {"start_time": "14:25", "end_time": "15:10", "activity": "7th lesson", "period": 7}
+        ],
+        "friday_summer": [
+            {"start_time": "08:30", "end_time": "09:15", "activity": "1st lesson", "period": 1},
+            {"start_time": "09:15", "end_time": "09:20", "activity": "Break"},
+            {"start_time": "09:20", "end_time": "10:05", "activity": "2nd lesson", "period": 2},
+            {"start_time": "10:05", "end_time": "10:25", "activity": "Breakfast"},
+            {"start_time": "10:25", "end_time": "11:10", "activity": "3rd lesson", "period": 3},
+            {"start_time": "11:10", "end_time": "11:20", "activity": "Break"},
+            {"start_time": "11:20", "end_time": "12:05", "activity": "4th lesson", "period": 4},
+            {"start_time": "12:05", "end_time": "12:10", "activity": "Break"},
+            {"start_time": "12:10", "end_time": "12:55", "activity": "5th lesson", "period": 5},
+            {"start_time": "12:55", "end_time": "13:45", "activity": "Lunch"},
+            {"start_time": "13:45", "end_time": "14:30", "activity": "6th lesson", "period": 6},
+            {"start_time": "14:30", "end_time": "14:35", "activity": "Break"},
+            {"start_time": "14:35", "end_time": "15:20", "activity": "7th lesson", "period": 7}
+        ]
+    }
+}

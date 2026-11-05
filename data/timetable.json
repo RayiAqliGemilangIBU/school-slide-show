@@ -1,0 +1,5184 @@
+{
+  "school_info": {
+    "name": "Richmond Park Schools Sarajevo",
+    "timetable_generator": "aSc Timetables Online",
+    "last_updated": "2026-10-30"
+  },
+  "master_schedules": [
+    {
+      "period": 1,
+      "start": "08:30",
+      "end": "09:15"
+    },
+    {
+      "period": 2,
+      "start": "09:20",
+      "end": "10:05"
+    },
+    {
+      "period": 3,
+      "start": "10:25",
+      "end": "11:10"
+    },
+    {
+      "period": 4,
+      "start": "11:20",
+      "end": "12:05"
+    },
+    {
+      "period": 5,
+      "start": "12:10",
+      "end": "12:55"
+    },
+    {
+      "period": 6,
+      "start": "13:25",
+      "end": "14:10"
+    },
+    {
+      "period": 7,
+      "start": "14:15",
+      "end": "15:00"
+    },
+    {
+      "period": 8,
+      "start": "15:05",
+      "end": "15:50"
+    }
+  ],
+  "classes": [
+    {
+      "class_id": "1A",
+      "grade": 1,
+      "track": "General",
+      "class_teacher": "Edisa Zilic",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "ART",
+                "group": "All",
+                "room": "ART",
+                "teacher_initial": "MSM"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "GEO",
+                "group": "All",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "SK"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "ART",
+                "group": "All",
+                "room": "ART",
+                "teacher_initial": "MSM"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "SM"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "SK"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "ICT",
+                "group": "All",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "GEO",
+                "group": "All",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "ICT",
+                "group": "All",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "BIO",
+                "teacher_initial": "SK"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "class_id": "1B",
+      "grade": 1,
+      "track": "General",
+      "class_teacher": "Metin Yilmaz",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ART",
+                "group": "All",
+                "room": "ART",
+                "teacher_initial": "MSM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "GE"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "MH"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ART",
+                "group": "All",
+                "room": "ART",
+                "teacher_initial": "MSM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "GE"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-1",
+                "teacher_initial": "ŠM"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "PA"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "ICT",
+                "group": "All",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "MA"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ICT",
+                "group": "All",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "ENG-1",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "GEO",
+                "group": "All",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "MH"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "GEO",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "GEO",
+                "group": "All",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "class_id": "2A",
+      "grade": 2,
+      "track": "General / Elective Track",
+      "class_teacher": "Jasmina Hasanovic",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-1",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-1",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "SK"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "DY"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "ICT",
+                "group": "All",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "LAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "AH"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-1",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "GEO",
+                "group": "All",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "class_id": "2B",
+      "grade": 2,
+      "track": "General / Elective Track",
+      "class_teacher": "Denis Mesic",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "ŠM"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "GE"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "First",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second1",
+                "room": "ENG-1",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "ENG",
+                "group": "Second2",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "MH"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "MA"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "LAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "AH"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "ICT",
+                "group": "All",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "GEO",
+                "group": "All",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "ŠM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "BIO",
+                "teacher_initial": "SK"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "DY"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "GE"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "class_id": "3A",
+      "grade": 3,
+      "track": "General / Elective Track",
+      "class_teacher": "Nedim Ovcina",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-1",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-1",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "SK"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "SOC",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "LAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "AH"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-1",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "DY"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "GEO",
+                "group": "All",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "ZE"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-1",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT",
+                "group": "All",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "class_id": "3B",
+      "grade": 3,
+      "track": "General / Elective Track",
+      "class_teacher": "Almir Hadzic",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "ŠM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "HIS",
+                "group": "All",
+                "room": "HIS",
+                "teacher_initial": "MH"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "ŠM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GEO",
+                "group": "All",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "LAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "AH"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "ŠM"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "DY"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "CHE",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "GE"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "PHY",
+                "group": "All",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "PA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "MM"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "ŠM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "SOC",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "BIO",
+                "group": "All",
+                "room": "BIO",
+                "teacher_initial": "HM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT",
+                "group": "All",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "class_id": "4A",
+      "grade": 4,
+      "track": "General / Elective Track",
+      "class_teacher": "Aida Huseinovic-Ogric",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "ENG-1",
+                "teacher_initial": "AE"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "MAT-1",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "SOC",
+                "group": "All",
+                "room": "ENG-1",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "DY"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "SOC",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "TUR",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "ENG-2",
+                "teacher_initial": "AE"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "TUR",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "PHY",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "CHE",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "Gym G",
+                "teacher_initial": "KB"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "GYM B",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "Gym G",
+                "teacher_initial": "KB"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "GYM B",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "DY"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "LAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "AH"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "class_id": "4B",
+      "grade": 4,
+      "track": "General / Elective Track",
+      "class_teacher": "Safet Muminovic",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "HIS",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "MAT-1",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "SOC",
+                "group": "All",
+                "room": "ENG-1",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "DY"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "LAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "AH"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "All",
+                "room": "TUR",
+                "teacher_initial": "DY"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "ENG-1",
+                "teacher_initial": "AE"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "SOC",
+                "group": "All",
+                "room": "ENG-1",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "TUR",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "TUR",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "ENG-1",
+                "teacher_initial": "AE"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "Gym G",
+                "teacher_initial": "KB"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "GYM B",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "Gym G",
+                "teacher_initial": "KB"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "GYM B",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "class_id": "4C",
+      "grade": 4,
+      "track": "IT / Science",
+      "class_teacher": "Tugba Unverdi",
+      "schedule": {
+        "Monday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "REL",
+                "group": "Religion",
+                "room": "MUS",
+                "teacher_initial": "MS"
+              },
+              {
+                "subject": "C REL",
+                "group": "Culture of Religion",
+                "room": "HIS",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "AE"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "SOF-ENG",
+                "group": "IT",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "MAD",
+                "group": "IT",
+                "room": "ICT-COL",
+                "teacher_initial": "GF"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Social",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "MAT-1",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "GER",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Tuesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "KB"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "SPO",
+                "group": "Boys",
+                "room": "GYM B",
+                "teacher_initial": "KB"
+              },
+              {
+                "subject": "SPO",
+                "group": "Girls",
+                "room": "Gym G",
+                "teacher_initial": "MA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "SOC",
+                "group": "All",
+                "room": "ENG-1",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "SOF-ENG",
+                "group": "IT",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "CHE-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "SS"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "Pro",
+                "group": "IT",
+                "room": "ICT-COL",
+                "teacher_initial": "AR"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "BOS-2",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "SOC SCI",
+                "teacher_initial": "SA"
+              }
+            ]
+          }
+        ],
+        "Wednesday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "BOS-B",
+                "group": "Bosnians",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              },
+              {
+                "subject": "BOS-F",
+                "group": "Foreigners",
+                "room": "GEO",
+                "teacher_initial": "AE"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "LAT",
+                "group": "All",
+                "room": "MAT-2",
+                "teacher_initial": "AH"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "Math IT/Social/Science/Language",
+                "room": "TUR",
+                "teacher_initial": "DY"
+              },
+              {
+                "subject": "WEBP",
+                "group": "IT",
+                "room": "ICT-COL",
+                "teacher_initial": "IF"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "ICT-OP",
+                "group": "Math IT",
+                "room": "ICT",
+                "teacher_initial": "ST"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "TUR",
+                "teacher_initial": "RM"
+              }
+            ]
+          }
+        ],
+        "Thursday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "GER",
+                "group": "All",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "SOC",
+                "group": "All",
+                "room": "ENG-1",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "SOF-ENG",
+                "group": "IT",
+                "room": "ICT",
+                "teacher_initial": "GF"
+              },
+              {
+                "subject": "GEO-OP",
+                "group": "Social",
+                "room": "GEO",
+                "teacher_initial": "HI"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "BIO",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "TUR-OP",
+                "group": "Language",
+                "room": "TUR",
+                "teacher_initial": "OM"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "PHY-OP",
+                "group": "Math IT",
+                "room": "PHY",
+                "teacher_initial": "YM"
+              },
+              {
+                "subject": "Pro",
+                "group": "IT",
+                "room": "ICT",
+                "teacher_initial": "AR"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "BIO-OP",
+                "group": "Science",
+                "room": "CHE",
+                "teacher_initial": "AA"
+              },
+              {
+                "subject": "GER-OP",
+                "group": "Language",
+                "room": "CHE",
+                "teacher_initial": "RM"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "PHI",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "SA"
+              }
+            ]
+          },
+          {
+            "period": 6,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          },
+          {
+            "period": 7,
+            "sessions": [
+              {
+                "subject": "GUI",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          }
+        ],
+        "Friday": [
+          {
+            "period": 1,
+            "sessions": [
+              {
+                "subject": "TUR",
+                "group": "Math IT/Social/Science/Language",
+                "room": "SOC SCI",
+                "teacher_initial": "DY"
+              },
+              {
+                "subject": "Pro",
+                "group": "IT",
+                "room": "ICT-COL",
+                "teacher_initial": "AR"
+              }
+            ]
+          },
+          {
+            "period": 2,
+            "sessions": [
+              {
+                "subject": "MAT",
+                "group": "All",
+                "room": "MAT-1",
+                "teacher_initial": "UT"
+              }
+            ]
+          },
+          {
+            "period": 3,
+            "sessions": [
+              {
+                "subject": "ENG",
+                "group": "All",
+                "room": "ENG-2",
+                "teacher_initial": "HOA"
+              }
+            ]
+          },
+          {
+            "period": 4,
+            "sessions": [
+              {
+                "subject": "BOS",
+                "group": "All",
+                "room": "BOS-2",
+                "teacher_initial": "VA"
+              }
+            ]
+          },
+          {
+            "period": 5,
+            "sessions": [
+              {
+                "subject": "MAT-OP",
+                "group": "Math IT",
+                "room": "ENG-2",
+                "teacher_initial": "UT"
+              },
+              {
+                "subject": "MAD",
+                "group": "IT",
+                "room": "ICT-COL",
+                "teacher_initial": "GF"
+              },
+              {
+                "subject": "HIS-OP",
+                "group": "Social",
+                "room": "HIS",
+                "teacher_initial": "SM"
+              },
+              {
+                "subject": "PHY-OP",
+                "group": "Science",
+                "room": "PHY",
+                "teacher_initial": "BD"
+              },
+              {
+                "subject": "ENG-OP",
+                "group": "Language",
+                "room": "ENG-COL",
+                "teacher_initial": "ĐG"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

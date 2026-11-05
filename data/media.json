@@ -1,0 +1,24 @@
+﻿{
+    "image_duration_seconds":  8,
+    "last_synced":  "2026-11-05 12:00:11",
+    "items":  [
+                  {
+                      "file":  "media/announcements-poster.svg",
+                      "type":  "image",
+                      "title_en":  "announcements poster",
+                      "title_bs":  "announcements poster"
+                  },
+                  {
+                      "file":  "media/Default-social-share-image-sarajevo.jpg",
+                      "type":  "image",
+                      "title_en":  "Default social share image sarajevo",
+                      "title_bs":  "Default social share image sarajevo"
+                  },
+                  {
+                      "file":  "media/welcome-poster.svg",
+                      "type":  "image",
+                      "title_en":  "welcome poster",
+                      "title_bs":  "welcome poster"
+                  }
+              ]
+}

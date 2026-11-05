@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" width="1920" height="1080">
+  <defs>
+    <linearGradient id="bg2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f0fdf4"/>
+      <stop offset="50%" stop-color="#ecfeff"/>
+      <stop offset="100%" stop-color="#f8fafc"/>
+    </linearGradient>
+    <linearGradient id="accent2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#bg2)"/>
+  <rect x="140" y="140" width="1640" height="800" rx="36" fill="#ffffff" stroke="#cbd5e1" stroke-width="3"/>
+  <rect x="140" y="140" width="1640" height="18" rx="9" fill="url(#accent2)"/>
+  <text x="960" y="310" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="32" font-weight="700" fill="#059669" text-anchor="middle" letter-spacing="4">STUDENT ANNOUNCEMENTS • OBAVJEŠTENJA ZA UČENIKE</text>
+  <text x="960" y="430" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="68" font-weight="800" fill="#0f172a" text-anchor="middle">Have a Productive School Day!</text>
+  <text x="960" y="515" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="48" font-weight="600" fill="#334155" text-anchor="middle">Želimo vam uspješan školski dan!</text>
+  <rect x="360" y="600" width="1200" height="210" rx="24" fill="#f8fafc" stroke="#e2e8f0" stroke-width="2"/>
+  <text x="960" y="685" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="34" font-weight="600" fill="#1e293b" text-anchor="middle">Check the TV screen during breaks for your current and next class room.</text>
+  <text x="960" y="745" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="30" font-weight="500" fill="#475569" text-anchor="middle">Tokom odmora provjerite ekran za trenutni i sljedeći čas te učionicu.</text>
+</svg>

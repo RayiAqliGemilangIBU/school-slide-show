@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="bs">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Richmond Park Schools Sarajevo • Live Timetable</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="editor.css" />
+</head>
+<body>
+  <!--
+    ==========================================================================
+    RICHMOND PARK INTERNATIONAL SECONDARY SCHOOL SARAJEVO
+    Clean European TV Timetable Display (Simple & High-Readability)
+    - Pritisnite tipku 'T' na tastaturi za otvaranje simulatora vremena (test)
+    - Pritisnite tipku '->' za prelazak na sljedeći slajd
+    ==========================================================================
+  -->
+  <div id="tvAppContainer" class="tv-app">
+    <!-- 1. TOP HEADER BAR -->
+    <header class="top-header">
+      <div class="header-brand">
+        <div class="school-logo-badge">RPS</div>
+        <div class="school-name-block">
+          <div class="school-name">Richmond Park Schools</div>
+          <div class="school-sub">International Secondary School Sarajevo</div>
+        </div>
+      </div>
+
+      <div id="bellStatusBox" class="bell-status-pill">
+        <span class="status-indicator-dot"></span>
+        <div class="status-text-wrap">
+          <span id="statusLabel" class="status-title">—</span>
+          <span id="statusSub" class="status-time">—</span>
+        </div>
+      </div>
+
+      <div class="header-clock-wrap">
+        <div id="dateDisplay" class="date-text">—</div>
+        <div id="clockDisplay" class="clock-digits">00:00</div>
+      </div>
+    </header>
+
+    <!-- 2. MAIN STAGE -->
+    <main class="main-stage">
+      <!-- CLASS TIMETABLE VIEW -->
+      <section id="classSlideView" class="class-view">
+        <!-- Class Identity Bar -->
+        <div class="class-bar">
+          <div class="class-tag-wrap">
+            <span class="class-tag-label">ODJELJENJE · CLASS</span>
+            <span id="classIdBadge" class="class-badge">1A</span>
+            <div id="trackBadgeWrap" class="track-badge-wrap" style="display: none;">
+              <span class="track-tag-label">TRACK</span>
+              <span id="trackBadge" class="track-badge">MATH-IT</span>
+            </div>
+          </div>
+          <div class="class-info-wrap">
+            <span id="classGradeTrack" class="class-grade-track">I Razred • General Track</span>
+            <span id="classTeacherName" class="class-teacher">Razrednik: Edisa Zilić</span>
+          </div>
+          <div class="class-page-counter" id="classPageCounter">
+            1 / 5
+          </div>
+        </div>
+
+        <!-- Cards Row: NOW (SADA) & NEXT (SLJEDEĆE) -->
+        <div class="cards-row">
+          <!-- CARD NOW -->
+          <article id="nowCard" class="lesson-card card-now">
+            <div class="card-top-bar">
+              <span id="nowCardLabel" class="card-badge">TRENUTNO · NOW</span>
+              <span id="nowTime" class="card-time-slot">08:30 – 09:15</span>
+            </div>
+
+            <div class="card-body">
+              <div class="subject-hero">
+                <span id="nowSubjCode" class="hero-code-pill">BOS</span>
+                <div class="hero-titles">
+                  <h2 id="nowSubject" class="hero-subject-name">Bosnian Language</h2>
+                  <div id="nowSubjectBs" class="hero-subject-sub">Bosanski jezik</div>
+                </div>
+              </div>
+
+              <!-- Break Banner (Shown during breaks) -->
+              <div id="nowBreakWrap" class="break-banner-wrap">
+                <div class="break-icon-box">☕</div>
+                <div class="break-text-box">
+                  <div class="break-msg-title">Vrijeme za odmor · Break Time</div>
+                  <div class="break-msg-sub">Pripremite pribor za sljedeći čas na desnoj strani ekrana.</div>
+                </div>
+              </div>
+
+              <!-- Single Lesson Meta (Room & Teacher) -->
+              <div id="nowSingleMeta" class="single-meta-row">
+                <div class="meta-box room-box">
+                  <span class="meta-label">KABINET / ROOM</span>
+                  <span id="nowRoom" class="meta-val room-val">BOS-2</span>
+                </div>
+                <div class="meta-box teacher-box">
+                  <span class="meta-label">PROFESOR / TEACHER</span>
+                  <span id="nowTeacher" class="meta-val">VA</span>
+                </div>
+              </div>
+
+              <!-- Split Groups Table (When class is split) -->
+              <div id="nowGroupsWrap" class="groups-table-wrap">
+                <table class="groups-table">
+                  <thead id="nowGroupsHead">
+                    <tr>
+                      <th>GRUPA / GROUP</th>
+                      <th>PREDMET</th>
+                      <th class="th-room">KABINET</th>
+                      <th class="th-teacher">PROF.</th>
+                    </tr>
+                  </thead>
+                  <tbody id="nowGroupsBody">
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </article>
+
+          <!-- CARD NEXT -->
+          <article id="nextCard" class="lesson-card card-next">
+            <div class="card-top-bar">
+              <span id="nextCardLabel" class="card-badge next-badge">SLJEDEĆE · NEXT</span>
+              <span id="nextTime" class="card-time-slot">09:20</span>
+            </div>
+
+            <div class="card-body">
+              <div class="subject-hero">
+                <span id="nextSubjCode" class="hero-code-pill next-code">ART</span>
+                <div class="hero-titles">
+                  <h2 id="nextSubject" class="hero-subject-name">Fine Arts</h2>
+                  <div id="nextSubjectBs" class="hero-subject-sub">Likovna kultura</div>
+                </div>
+              </div>
+
+              <!-- End of Day Banner -->
+              <div id="nextDoneWrap" class="done-banner-wrap">
+                <div class="done-icon-box">✓</div>
+                <div class="done-text-box">
+                  <div class="done-msg-title">Kraj nastave za danas · School Day Ended</div>
+                  <div class="done-msg-sub">Nema daljih časova. Ugodan ostatak dana!</div>
+                </div>
+              </div>
+
+              <!-- Single Lesson Meta (Room & Teacher) -->
+              <div id="nextSingleMeta" class="single-meta-row">
+                <div class="meta-box room-box">
+                  <span class="meta-label">KABINET / ROOM</span>
+                  <span id="nextRoom" class="meta-val room-val">ART</span>
+                </div>
+                <div class="meta-box teacher-box">
+                  <span class="meta-label">PROFESOR / TEACHER</span>
+                  <span id="nextTeacher" class="meta-val">MSM</span>
+                </div>
+              </div>
+
+              <!-- Split Groups Table -->
+              <div id="nextGroupsWrap" class="groups-table-wrap">
+                <table class="groups-table">
+                  <thead id="nextGroupsHead">
+                    <tr>
+                      <th>GRUPA / GROUP</th>
+                      <th>PREDMET</th>
+                      <th class="th-room">KABINET</th>
+                      <th class="th-teacher">PROF.</th>
+                    </tr>
+                  </thead>
+                  <tbody id="nextGroupsBody">
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <!-- 3. TODAY SCHEDULE TIMELINE -->
+        <div class="today-schedule-strip">
+          <div class="strip-header">
+            <span class="strip-title">DANAŠNJI RASPORED · TODAY'S TIMELINE</span>
+            <span id="stripDayInfo" class="strip-subtitle">Časovi 1 – 7</span>
+          </div>
+          <div id="timelineSlots" class="timeline-slots-grid"></div>
+        </div>
+      </section>
+
+      <!-- MEDIA VIEW (Images & Videos) -->
+      <section id="mediaSlideView" class="media-slide-view">
+        <div id="mediaContentWrapper" class="media-content-wrapper"></div>
+      </section>
+    </main>
+
+    <!-- 4. BOTTOM BAR: SLIDE TIMER PROGRESS -->
+    <footer class="bottom-bar">
+      <div class="slide-timer-track">
+        <div id="slideTimerFill" class="slide-timer-fill"></div>
+      </div>
+    </footer>
+  </div>
+
+  <!-- ADMIN / TEST SIMULATION PANEL (Toggle with 'T' key) -->
+  <div id="simPanel" class="sim-panel">
+    <h4>Time Simulator (Pritisnite 'T' za zatvaranje)</h4>
+    <div class="sim-controls">
+      <select id="simDaySelect">
+        <option value="Monday">Monday / Ponedjeljak</option>
+        <option value="Tuesday">Tuesday / Utorak</option>
+        <option value="Wednesday">Wednesday / Srijeda</option>
+        <option value="Thursday">Thursday / Četvrtak</option>
+        <option value="Friday">Friday / Petak</option>
+        <option value="Saturday">Saturday / Vikend</option>
+      </select>
+      <input type="time" id="simTimeInput" value="09:30" />
+      <button id="applySimBtn" class="btn-primary">Postavi vrijeme</button>
+      <button id="resetSimBtn">Realno vrijeme</button>
+      <button id="nextSlideBtn">Sljedeći slajd &rarr;</button>
+    </div>
+  </div>
+
+  <script src="config.js"></script>
+  <script src="data/fallback-data.js"></script>
+  <script src="app.js"></script>
+  <script src="editor.js"></script>
+</body>
+</html>
